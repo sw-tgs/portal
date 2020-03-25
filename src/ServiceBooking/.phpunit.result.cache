@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":270:{a:2:{s:7:"defects";a:1:{s:99:"Shopware\Production\ServiceBooking\tests\ServiceBookingTemplate\TemplateApiTest::testCreateTemplate";i:4;}s:5:"times";a:1:{s:99:"Shopware\Production\ServiceBooking\tests\ServiceBookingTemplate\TemplateApiTest::testCreateTemplate";d:0.323;}}}
